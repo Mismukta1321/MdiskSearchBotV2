@@ -5,16 +5,16 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "12124605"))
-    API_HASH = os.getenv("API_HASH", "5cf3577d85fd02286535ec2296934287")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
+    API_ID = int(os.getenv("API_ID", "20632324"))
+    API_HASH = os.getenv("API_HASH", "7472998b241dd149fc2b2167ce045c0e")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "8117536254:AAG7D2xDBY6p-boMMJUd-3gYRpQ-QRBSZTk")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
-    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cynitebackup")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOIgBu4vhUDKK2fsOZAu7ohVfITq9zsEyhQ539rKz0yX0t3JrsfsAgxIVYXb9yjtzuXzeFAl5nxsKZ6ykj85qPqPzz4j-09CvKVpQnc7gHTd8p8djgWnpw7JEq-G2_wnNQ8m_Zxn61Izr_vCpIBq0c3q1YCYNrReDMXxU33ZgqvjYpwmSu7tYcdoHEv49nSkipU3UMUV8owEqQ7Y4BE3JZMZp1-rn0EU360aSwSv1W6mVLLsfTiA4CtvtW0yTX1M7reSe_-TFAIdAenUkUdi9x8_1oazGpxAdzr_obtW_sDuH-CuqXUJ_8A-zlYmhMoYT-g8jN2cOMTPPeVfasREeelvoKmg=")
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001957331455")) 
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "TeraboxProMovieBot")
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "8090888302"))
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Movieslover29")
+    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "Ctgmoviesfun")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
